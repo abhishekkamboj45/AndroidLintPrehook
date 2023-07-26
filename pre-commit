@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Run the lint check script
+/Users/chicmic/AndroidStudioProjects/Prehook.lint_check.sh
+
+# Exit with the result of the lint check script
+exit $?

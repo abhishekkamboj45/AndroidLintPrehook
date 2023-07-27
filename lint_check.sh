@@ -6,7 +6,7 @@ echo "*******************************"
 
 git stash -q --keep-index
 
-./gradlew lintDevDebug
+./gradlew lint
 
 
 RESULT=$?
